@@ -2,11 +2,11 @@
 
 This project builds upon the basic Medibox functionality to create a more advanced device that assists users in managing their medication schedules effectively. 
 
-<img src="Circuit_Diagram.jpg" alt="Circuit_Diagram" width="200"/>
+<img src="Circuit_Diagram.jpg" alt="Circuit_Diagram" width="500"/>
 
 ## Node-RED Dashboard
 
-<img src="Dashvoard.jpg" alt="Node-RED Dashboard" width="200"/>
+<img src="Dashboard.jpg" alt="Node-RED Dashboard" width="1200"/>
 
 In addition to the existing features, this enhanced version incorporates the following functionalities:
 
@@ -41,7 +41,7 @@ In addition to the existing features, this enhanced version incorporates the fol
 
 ## Wokwi Simulation
 
-![Wokwi Simulation](https://wokwi.com/projects/367634095169821697)
+Simulation on Wokwi platform can be found [here](https://wokwi.com/projects/367634095169821697).
 
 ## Flows.json File
 
@@ -53,7 +53,7 @@ To view the previous version of the Medibox project, please visit the [Previous 
 
 ## Usage
 
-1. [Connect the hardware components as per the updated circuit diagram]
+1. [Connect the hardware components as per the circuit diagram]
 2. [Clone or download the repository]
 3. [Upload the code to your ESP32 board]
 4. [Set up Node-RED dashboard using the flows.json file]
